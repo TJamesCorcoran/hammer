@@ -79,6 +79,11 @@ The requirement for SWIG >= 2.0.8 for Perl bindings is due to a [known bug](http
 
 The .NET bindings are for Mono 3.0.6 and greater. If you're on a Debian-based distro that only provides Mono 2 (e.g., Ubuntu 12.04), there are backports for [3.0.x](http://www.meebey.net/posts/mono_3.0_preview_debian_ubuntu_packages/), and a [3.2.x PPA](https://launchpad.net/~directhex/+archive/monoxide) maintained by the Mono team.
 
+Hacking Guide / code design
+===========================
+
+See [here](./HACKING.md).
+
 Community
 =========
 Please join us at `#hammer` on `irc.upstandinghackers.com` if you have any questions or just want to talk about parsing.
@@ -86,3 +91,4 @@ Please join us at `#hammer` on `irc.upstandinghackers.com` if you have any quest
 Contact
 =======
 You can also email us at <hammer@upstandinghackers.com>.
+
